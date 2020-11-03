@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<agenda>
+  <contato>
+    <id>1</id>
+    <nome>Mateus</nome>
+    <email>mateuschavesmarques@gmail.com</email>
+    <cpf>324-433-221-94</cpf>
+    <rg>433-433-34</rg>
+  </contato>
+  <contato>
+    <id>2</id>
+    <nome>Lucas</nome>
+    <email>lucasgonsalves@gmail.com</email>
+    <cpf>624-252-755-76</cpf>
+    <rg>526-624-24</rg>
+  </contato>
+  <contato>
+    <id>3</id>
+    <nome>Eduardo</nome>
+    <email>eduardosilva@gmail.com</email>
+    <cpf>413-522-565-35</cpf>
+    <rg>636-357-65</rg>
+  </contato>
+  <contato>
+    <id>4</id>
+    <nome>Marcos</nome>
+    <email>marcosaraujo@gmail.com</email>
+    <cpf>134-525-224-43</cpf>
+    <rg>134-464-64</rg>
+  </contato>
+  <contato>
+    <id>5</id>
+    <nome>Marcelo</nome>
+    <email>marcelooliveira@gmail.com</email>
+    <cpf>256-632-567-52</cpf>
+    <rg>454-657-54</rg>
+  </contato>
+</agenda>
